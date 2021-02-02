@@ -1,0 +1,10 @@
+{
+  "name": "ui-pass",
+  "version": "0.1.0",
+  "description": "Simple, user managed folder, password manager",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "electron": "^11.2.1",
+    "electron-builder": "^22.9.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ui-pass",
+  "author": "MrWormy",
+  "version": "0.1.0",
+  "description": "Simple, user managed folder, password manager",
+  "license": "AGPL-3.0",
+  "repository": "https://github.com/MrWormy/UIPass.git",
+  "main": "main.js",
+  "dependencies": {}
+}
